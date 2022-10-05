@@ -1,0 +1,8 @@
+13:08:43 05/Oct/2022,ETL Job Started: currency rates from 'USD' to 'GBP'
+13:08:43 05/Oct/2022,Extract phase Started
+13:08:43 05/Oct/2022,Extract phase Ended
+13:08:43 05/Oct/2022,Transform phase Started
+13:08:43 05/Oct/2022,Transform phase Ended
+13:08:43 05/Oct/2022,Load phase Started
+13:08:43 05/Oct/2022,Load phase Ended
+13:08:43 05/Oct/2022,ETL Job Ended
